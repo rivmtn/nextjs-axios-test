@@ -1,0 +1,8 @@
+.next
+.git
+node_modules
+.gitignore
+.dockerignore
+Dockerfile
+docker-dompose.yml
+.vscode
